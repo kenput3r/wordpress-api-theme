@@ -1,0 +1,26 @@
+/*
+Theme Name: Wordpress Api Theme
+Theme URI: https://github.com/kenput3r/wordpress-api-theme
+Author: @kenputer
+Author URI: https://www.kenput3r.com
+Description: A blank theme to keep the WordPress site form index and confusing potential visitiors.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: headless, blank
+Text Domain: wordpress-api-theme
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  max-width: 30vh;
+}
